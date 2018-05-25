@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527279176 source:c:\users\777\desktop\saod\lab4\main.cpp
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	<iostream>
+	<clocale>
+
